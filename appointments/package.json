@@ -1,0 +1,22 @@
+{
+  "name": "appointments",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "front"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/kuzmichov123/Jest1.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kuzmichov123/Jest1/issues"
+  },
+  "homepage": "https://github.com/kuzmichov123/Jest1#readme",
+  "devDependencies": {
+    "jest": "^29.6.2"
+  }
+}
